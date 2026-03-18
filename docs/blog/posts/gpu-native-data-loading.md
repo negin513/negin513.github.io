@@ -16,7 +16,7 @@ authors:
 
 # It is all about I/O!
 
-Read the full blog post here: [https://xarray.dev/blog/gpu-pipeline](https://xarray.dev/blog/gpu-pipeline)
+**Read the full blog post about GPU-native data loading here: [https://xarray.dev/blog/gpu-pipeline](https://xarray.dev/blog/gpu-pipeline)**
 
 Data loading is a major bottleneck in AI/ML workflows, especially when working with large geoscientific datasets. At a hackathon, we explored how GPU-native data loaders using Zarr v3, CuPy, and DALI can help overcome this bottleneck and accelerate end-to-end workflows.
 
@@ -33,10 +33,4 @@ During a few days at the hackathon, we built a GPU-native pipeline that moves da
 
 The combined optimizations achieved **~17x improvement** in training throughput on a single GPU by eliminating I/O bottlenecks and maximizing GPU utilization.
 
-## Read More
-
-Check out the full blog post on the Xarray website for detailed profiling results, code examples, and lessons learned:
-
-[:octicons-arrow-right-24: Read the full post on xarray.dev](https://xarray.dev/blog/gpu-pipeline)
-
-[:octicons-arrow-right-24: GitHub Repo](https://github.com/negin513/gpu-native-xarray-zarr)
+For detailed benchmarks, implementation details, and code, read the full blog post at [xarray.dev/blog/gpu-pipeline](https://xarray.dev/blog/gpu-pipeline).

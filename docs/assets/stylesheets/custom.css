@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;900&display=swap');
+
 /* ── Palette: Nathan Catania style ── */
 :root {
   --primary-gradient: linear-gradient(to right, #4a30cc, #1a96cc, #86d9a8);
@@ -32,10 +34,28 @@
 /* ── Header ── */
 .md-header {
   background-color: var(--header-color);
-  padding: 0.15rem 0;
+  padding: 0.5rem 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+.md-header[data-md-state="shadow"],
+.md-header--shadow {
+  box-shadow: none !important;
 }
 
 .md-tabs {
+  border-bottom: none !important;
+  box-shadow: none !important;
+  font-family: 'Poppins', sans-serif;
+  padding: 0;
+  background-color: var(--header-color) !important;
+  border-top: none !important;
+  outline: none !important;
+}
+
+.md-container {
+  border-top: none !important;
+  box-shadow: none !important;
 }
 
 /* ── Footer ── */
@@ -50,6 +70,9 @@
 /* ── Tabs ── */
 .md-tabs__link {
   font-weight: 700 !important;
+  font-size: 0.7rem !important;
+  padding-top: 0.2rem !important;
+  padding-bottom: 0.2rem !important;
 }
 
 /* ── Gradient Headings ── */
@@ -60,7 +83,13 @@ h1, h2 {
   color: transparent !important;
   background-size: cover !important;
   background-image: var(--primary-gradient) !important;
+  font-size: 2rem !important;
 }
+
+h1 {
+  font-size: 2.2rem !important;
+}
+
 
 h3, h4 {
   font-weight: 700 !important;
