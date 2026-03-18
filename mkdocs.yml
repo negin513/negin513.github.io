@@ -1,0 +1,83 @@
+site_name: Negin Sobhani, Ph.D.
+site_description: Computational Scientist & Scientific ML Engineer at NSF-NCAR
+site_url: https://negin513.github.io
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/circle-half-full
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/circle-half-full
+        name: Switch to light mode
+  font:
+    text: Inter
+    code: Noto Sans Mono
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.instant
+    - toc.follow
+    - search.suggest
+  favicon: assets/images/favicon.svg
+  icon: {}
+
+nav:
+  - Home: index.md
+  - Talks:
+    - Selected Presentations: talks/index.md
+    - Tutorials & Workshops: talks/tutorials.md
+  - Blog:
+    - blog/index.md
+  - CV: cv.md
+
+plugins:
+  - search
+  - blog:
+      blog_dir: blog
+      post_date_format: long
+  - glightbox
+  - minify:
+      minify_html: true
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/negin513
+      name: GitHub
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/neginsobhani
+      name: LinkedIn
+    - icon: fontawesome/brands/google-scholar
+      link: https://scholar.google.com/citations?hl=en&user=D9L61z8AAAAJ
+      name: Google Scholar
+
+extra_css:
+  - assets/stylesheets/custom.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - def_list
+  - tables
+  - toc:
+      permalink: true
+
+copyright: "&copy; 2024–2026 Negin Sobhani"
