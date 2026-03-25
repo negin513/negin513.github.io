@@ -27,31 +27,29 @@ hide:
 </div>
 </div>
 
----
 
 ## About me
 
-I'm a computational scientist at the NSF National Center for Atmospheric Research (NSF-NCAR) in Boulder, Colorado. My work lives at the intersection of atmospheric science, HPC, and AI/ML.
+I'm an HPC consultant and scientific software developer working at the intersection of AI/ML, high-performance computing (HPC), and Earth system science 🌎. My work focuses on making GPU clusters useful for weather and climate researchers: building the distributed training systems, data pipelines, and optimization workflows that turn HPC hardware into scientific results.
 
 Currently serving as the Technical Lead of the NSF-NCAR Community AI Ecosystem initiative, I coordinate eight labs and 50+ stakeholders to build unified geospatial AI/ML infrastructure for Earth system science.
 
 My background spans numerical weather prediction, distributed GPU training, performance optimization on HPC/Cloud architectures, and building scalable data workflows for large geospatial datasets. I'm passionate about open science and fostering community-driven computational geoscience.
 
-I'm an active open-source contributor and technical leader in the [Pangeo](https://pangeo.io/) ecosystem, serving as a core contributor to [Xarray](https://github.com/pydata/xarray), [CuPy-Xarray](https://github.com/xarray-contrib/cupy-xarray), and [Pythia](https://projectpythia.org/). I enjoy teaching and have delivered tutorials at [SciPy](https://www.scipy.org/), [ESDS](https://ncar.github.io/esds/), and NCAR on topics ranging from scalable geospatial data analysis to distributed AI/ML workflows.
+I'm an active open-source contributor and technical leader in the [Pangeo](https://pangeo.io/) ecosystem, serving as a core contributor to [Xarray](https://github.com/pydata/xarray), [CuPy-Xarray](https://github.com/xarray-contrib/cupy-xarray), and [Pythia](https://projectpythia.org/). I enjoy teaching and have delivered tutorials at [SciPy](https://www.scipy.org/), [ESDS](https://ncar.github.io/esds/), and NCAR on topics ranging from scalable geospatial data analysis using Dask to distributed AI/ML workflows.
 
 I hold a Ph.D. in Chemical Engineering from the University of Iowa, where my research focused on atmospheric chemistry modeling, performance analysis, and optimization of weather and air quality models.
 
----
 
 ## Interests
 
 <div class="interest-tags">
+<span class="interest-tag">HPC</span>
+<span class="interest-tag">AI/ML</span>
 <span class="interest-tag">Scientific Machine Learning</span>
-<span class="interest-tag">HPC & GPU Computing</span>
 <span class="interest-tag">Distributed Training</span>
 <span class="interest-tag">Weather & Climate Modeling</span>
-<span class="interest-tag">Scalable Geospatial Data</span>
+<span class="interest-tag">Scalable Data Pipelines</span>
 <span class="interest-tag">Open-Source Scientific Software</span>
 <span class="interest-tag">Performance Optimization</span>
-<span class="interest-tag">Pangeo Ecosystem</span>
 </div>
