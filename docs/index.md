@@ -30,7 +30,7 @@ hide:
 
 ## About me
 
-I'm an HPC consultant and scientific software developer working at the intersection of AI/ML, high-performance computing (HPC), and Earth system science 🌎. My work focuses on making GPU clusters useful for weather and climate researchers: building the distributed training systems, data pipelines, and optimization workflows that turn HPC hardware into scientific results.
+I'm an HPC consultant and scientific software developer working at the intersection of AI/ML, HPC, and Earth system science 🌎. My work focuses on making GPU clusters useful for weather and climate researchers: building the distributed training systems, data pipelines, and optimization workflows that turn HPC hardware into scientific results.
 
 Currently serving as the Technical Lead of the NSF-NCAR Community AI Ecosystem initiative, I coordinate eight labs and 50+ stakeholders to build unified geospatial AI/ML infrastructure for Earth system science.
 
