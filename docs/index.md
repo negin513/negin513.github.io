@@ -17,10 +17,7 @@ hide:
 
 <div class="hero-links" markdown>
 
-[:material-email: Email](mailto:negins@ucar.edu){ .hero-link }
-[:fontawesome-brands-github: GitHub](https://github.com/negin513){ .hero-link }
-[:fontawesome-brands-linkedin: LinkedIn](https://linkedin.com/in/neginsobhani){ .hero-link }
-[:fontawesome-brands-google-scholar: Scholar](https://scholar.google.com/citations?hl=en&user=D9L61z8AAAAJ){ .hero-link }
+[:material-email: Email](mailto:negins@ucar.edu){ .hero-link } [:fontawesome-brands-github: GitHub](https://github.com/negin513){ .hero-link } [:fontawesome-brands-linkedin: LinkedIn](https://linkedin.com/in/neginsobhani){ .hero-link } [:fontawesome-brands-google-scholar: Scholar](https://scholar.google.com/citations?hl=en&user=D9L61z8AAAAJ){ .hero-link }
 
 </div>
 </div>
@@ -40,6 +37,86 @@ I'm an active open-source contributor and technical leader in the [Pangeo](https
 
 I hold a Ph.D. in Chemical Engineering from the University of Iowa, where my research focused on atmospheric chemistry modeling, performance analysis, and optimization of weather and air quality models.
 
+
+## Portfolio
+
+<div class="project-grid" markdown>
+
+<div class="project-card" markdown>
+### Scaling AI/ML Workflows on HPC
+Scaling and optimizing AI/ML training workflows for geoscientific applications on HPC systems.
+
+[:octicons-video-24: SciPy 2025 Talk](https://www.youtube.com/watch?v=Isp0cBiD0Co)
+</div>
+
+<div class="project-card" markdown>
+### GPU-Native Data Loading with Zarr
+End-to-end GPU data pipeline using Xarray, kvikIO, and CuPy for accelerated AI/ML geoscientific workflows.
+
+[:octicons-arrow-right-24: Xarray Blog Post](https://xarray.dev/blog/gpu-pipeline)  
+[:octicons-mark-github-24: GitHub](https://github.com/pangeo-data/ncar-hackathon-xarray-on-gpus)
+</div>
+
+<div class="project-card" markdown>
+### Dask on NCAR HPC Workshop
+Comprehensive workshop on scalable data analysis with Dask and Xarray on NCAR HPC systems.
+
+[:octicons-arrow-right-24: Workshop Website](https://ncar.github.io/dask-tutorial/README.html)      
+[:octicons-video-24: Workshop Video - Part 1](https://youtu.be/wJHosuzqLaU)   
+[:octicons-video-24: Workshop Video - Part 2](https://youtu.be/wJHosuzqLaU)
+
+
+</div>
+
+<!-- <div class="project-card" markdown>
+### Community AI Ecosystem for ESS
+Leading NSF-NCAR's initiative to build unified AI/ML infrastructure for Earth system science, coordinating 8 labs and 50+ stakeholders.
+
+[:octicons-arrow-right-24: NCAR AI Website](https://arc.ucar.edu/ai)
+</div> -->
+
+<div class="project-card" markdown>
+### CREDIT
+Community Research Earth Digital Intelligence Twin — an AI-powered framework for weather and climate prediction.
+
+[:octicons-mark-github-24: GitHub](https://github.com/NCAR/miles-credit)  
+[:material-file-document: Paper](https://www.nature.com/articles/s41612-025-01125-6)
+</div>
+
+<div class="project-card" markdown>
+### CuPy-Xarray
+Tutorial on GPU-accelerated array computing with CuPy-Xarray for geoscientific data analysis.
+
+[:octicons-arrow-right-24: Tutorial Website](https://negin513.github.io/cupy-xarray-tutorials/README.html)  
+[:octicons-mark-github-24: GitHub](https://github.com/xarray-contrib/cupy-xarray)
+</div>
+
+<div class="project-card" markdown>
+### Distributed Training for ESS on NCAR HPC
+Comprehensive guidelines for multi-node multi-gpu distributed deep learning training for Earth system science applications on NCAR HPC.
+
+[:octicons-arrow-right-24: GuideBook](https://negin513.github.io/distributed-pytorch-hpc/)  
+[:octicons-mark-github-24: GitHub](https://github.com/negin513/distributed-pytorch-hpc)
+</div>
+
+<div class="project-card" markdown>
+### Kubernetes for Climate Data Visualizations
+Harnessing Kubernetes to build scalable, interactive visualization platforms for climate data.
+
+[:material-presentation: AGU 2023 Slides](https://drive.google.com/file/d/15b4Kj_BmqsHiUGJX7g8U3Ggvz4MFBveg/view?usp=sharing)  
+[:octicons-arrow-right-24: NEON Dashboard](http://ncar.nationalsciencedatafabric.org:10787/neon_dashboard)  
+[:octicons-arrow-right-24: LENS2 Dashboard](https://cesm-lens2-dashboard.k8s.ucar.edu/app)  
+[:octicons-mark-github-24: GitHub](https://github.com/negin513/LENS2-Dashboard-Python.git)
+</div>
+
+<div class="project-card" markdown>
+### Deep Learning for Cloud Microphysics
+Deep learning emulation of bin microphysics autoconversion processes as an alternative to empirical parameterizations in climate models.
+
+[:material-presentation: AGU 2018 Poster](https://drive.google.com/file/d/19YzAgwt_iwdw5h4sAkdl-yUtXye0w4de/view?usp=sharing)
+</div>
+
+</div>
 
 ## Interests
 

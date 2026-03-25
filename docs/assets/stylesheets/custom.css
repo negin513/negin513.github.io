@@ -329,6 +329,43 @@ h3, h4 {
   background: var(--accent-light);
 }
 
+/* ── Project Cards ── */
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 0.8rem;
+  margin: 1rem 0;
+}
+
+.project-card {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 8px;
+  padding: 1rem 1.2rem;
+  transition: all 0.2s ease;
+}
+
+.project-card:hover {
+  border-color: var(--md-primary-fg-color);
+}
+
+.project-card h3 {
+  margin: 0 0 0.3rem 0;
+  font-size: 0.88rem;
+}
+
+.project-card p {
+  margin: 0 0 0.5rem 0;
+  font-size: 0.8rem;
+  color: var(--text-dim);
+  line-height: 1.5;
+}
+
+.project-card a {
+  font-size: 0.78rem;
+  font-weight: 600;
+}
+
 /* ── Interest Tags ── */
 .interest-tags {
   display: flex;
