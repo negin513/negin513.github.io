@@ -46,15 +46,15 @@ I hold a Ph.D. in Chemical Engineering from the University of Iowa, where my res
 ### Scaling AI/ML Workflows on HPC
 Scaling and optimizing AI/ML training workflows for geoscientific applications on HPC systems.
 
-[:octicons-video-24: SciPy 2025 Talk](https://www.youtube.com/watch?v=Isp0cBiD0Co)
+[:octicons-video-24: SciPy 2025 Presentation](https://www.youtube.com/watch?v=Isp0cBiD0Co)
 </div>
 
 <div class="project-card" markdown>
 ### GPU-Native Data Loading with Zarr
-End-to-end GPU data pipeline using Xarray, kvikIO, and CuPy for accelerated AI/ML geoscientific workflows.
+End-to-end benchmark for GPU data pipeline using Xarray, kvikIO, and CuPy for accelerated AI/ML geoscientific workflows.
 
 [:octicons-arrow-right-24: Xarray Blog Post](https://xarray.dev/blog/gpu-pipeline)  
-[:octicons-mark-github-24: GitHub](https://github.com/pangeo-data/ncar-hackathon-xarray-on-gpus)
+[:octicons-mark-github-24: GitHub Benchmark Repo](https://github.com/pangeo-data/ncar-hackathon-xarray-on-gpus)
 </div>
 
 <div class="project-card" markdown>
@@ -65,15 +65,15 @@ Comprehensive workshop on scalable data analysis with Dask and Xarray on NCAR HP
 [:octicons-video-24: Workshop Video - Part 1](https://youtu.be/wJHosuzqLaU)   
 [:octicons-video-24: Workshop Video - Part 2](https://youtu.be/wJHosuzqLaU)
 
-
 </div>
 
-<!-- <div class="project-card" markdown>
+<div class="project-card" markdown>
 ### Community AI Ecosystem for ESS
 Leading NSF-NCAR's initiative to build unified AI/ML infrastructure for Earth system science, coordinating 8 labs and 50+ stakeholders.
 
 [:octicons-arrow-right-24: NCAR AI Website](https://arc.ucar.edu/ai)
-</div> -->
+
+</div>
 
 <div class="project-card" markdown>
 ### CREDIT
@@ -85,9 +85,9 @@ Community Research Earth Digital Intelligence Twin — an AI-powered framework f
 
 <div class="project-card" markdown>
 ### CuPy-Xarray
-Tutorial on GPU-accelerated array computing with CuPy-Xarray for geoscientific data analysis.
+GPU-accelerated array computing with CuPy-Xarray for geoscientific data analysis.
 
-[:octicons-arrow-right-24: Tutorial Website](https://negin513.github.io/cupy-xarray-tutorials/README.html)  
+[:octicons-arrow-right-24: Tutorial Repo](https://negin513.github.io/cupy-xarray-tutorials/README.html)  
 [:octicons-mark-github-24: GitHub](https://github.com/xarray-contrib/cupy-xarray)
 </div>
 
@@ -100,7 +100,7 @@ Comprehensive guidelines for multi-node multi-gpu distributed deep learning trai
 </div>
 
 <div class="project-card" markdown>
-### Kubernetes for Climate Data Visualizations
+### Interactive Dashboards for Climate Data Visualizations
 Harnessing Kubernetes to build scalable, interactive visualization platforms for climate data.
 
 [:material-presentation: AGU 2023 Slides](https://drive.google.com/file/d/15b4Kj_BmqsHiUGJX7g8U3Ggvz4MFBveg/view?usp=sharing)  
@@ -110,11 +110,20 @@ Harnessing Kubernetes to build scalable, interactive visualization platforms for
 </div>
 
 <div class="project-card" markdown>
+### Early Predictions of Extreme Heat Events using AI/ML
+Machine learning approaches for seasonal and sub-seasonal forecasting of extreme heat events in the Eastern United States.
+
+[:material-presentation: AMS Talk](https://ams.confex.com/ams/2019Annual/meetingapp.cgi/Paper/354747)
+</div>
+
+<div class="project-card" markdown>
 ### Deep Learning for Cloud Microphysics
 Deep learning emulation of bin microphysics autoconversion processes as an alternative to empirical parameterizations in climate models.
 
-[:material-presentation: AGU 2018 Poster](https://drive.google.com/file/d/19YzAgwt_iwdw5h4sAkdl-yUtXye0w4de/view?usp=sharing)
+[:material-presentation: AGU Talk](https://drive.google.com/file/d/19YzAgwt_iwdw5h4sAkdl-yUtXye0w4de/view?usp=sharing)
 </div>
+
+
 
 </div>
 
@@ -123,8 +132,8 @@ Deep learning emulation of bin microphysics autoconversion processes as an alter
 <div class="interest-tags">
 <span class="interest-tag">HPC</span>
 <span class="interest-tag">AI/ML</span>
-<span class="interest-tag">Scientific Machine Learning</span>
 <span class="interest-tag">Distributed Training</span>
+<span class="interest-tag">Scientific Machine Learning</span>
 <span class="interest-tag">Weather & Climate Modeling</span>
 <span class="interest-tag">Scalable Data Pipelines</span>
 <span class="interest-tag">Open-Source Scientific Software</span>
