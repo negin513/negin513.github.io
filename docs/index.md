@@ -29,8 +29,6 @@ hide:
 
 I'm an HPC consultant and scientific software developer working at the intersection of AI/ML, HPC, and Earth system science 🌎. My work focuses on making GPU clusters useful for weather and climate researchers: building the distributed training systems, data pipelines, and optimization workflows that turn HPC hardware into scientific results.
 
-Currently serving as the Technical Lead of the NSF-NCAR Community AI Ecosystem initiative, I coordinate eight labs and 50+ stakeholders to build unified geospatial AI/ML infrastructure for Earth system science.
-
 My background spans numerical weather prediction, distributed GPU training, performance optimization on HPC/Cloud architectures, and building scalable data workflows for large geospatial datasets. I'm passionate about open science and fostering community-driven computational geoscience.
 
 I'm an active open-source contributor and technical leader in the [Pangeo](https://pangeo.io/) ecosystem, serving as a core contributor to [Xarray](https://github.com/pydata/xarray), [CuPy-Xarray](https://github.com/xarray-contrib/cupy-xarray), and [Pythia](https://projectpythia.org/). I enjoy teaching and have delivered tutorials at [SciPy](https://www.scipy.org/), [ESDS](https://ncar.github.io/esds/), and NCAR on topics ranging from scalable geospatial data analysis using Dask to distributed AI/ML workflows.
@@ -68,8 +66,8 @@ Comprehensive workshop on scalable data analysis with Dask and Xarray on NCAR HP
 </div>
 
 <div class="project-card" markdown>
-### Community AI Ecosystem for ESS
-Leading NSF-NCAR's initiative to build unified AI/ML infrastructure for Earth system science, coordinating 8 labs and 50+ stakeholders.
+### Community AI Ecosystem for ESS (Phase I)
+Leading Phase I of NSF-NCAR's AI initiative to build unified AI/ML infrastructure for Earth system science, coordinating 8 labs and 50+ stakeholders.
 
 [:octicons-arrow-right-24: NCAR AI Website](https://arc.ucar.edu/ai)
 
